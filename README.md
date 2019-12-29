@@ -1,5 +1,5 @@
 # Spam Classifier
-   this spam classifier uses *Naive-Bayes* Algorithms to predict accuracy of give email 
+   This spam classifier uses *Naive-Bayes* Algorithms to predict accuracy of given email 
    * Accuracy Score
    * Precision Score
    * Recall Score
